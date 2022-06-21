@@ -23,3 +23,12 @@ Our initial data file needed the Trip Duration changed to a Datetime Format so w
 
 6. [August Peak Riding Hours](https://public.tableau.com/views/Challenge14-AugustPeakHours/AugustPeakHours?:language=en-US&:display_count=n&:origin=viz_share_link) Peak hours are between 6AM - 10PM.
 ![August Peak Riding Hours](https://user-images.githubusercontent.com/101950175/174858376-39364938-cc4c-4e3f-809a-0fa5dbecd090.png)
+
+7. [Customer Type](https://public.tableau.com/views/Challenge14-CustomerType/CustomerType?:language=en-US&:display_count=n&:origin=viz_share_link) Subscribers make up about 80% of the users.
+![Customer Type](https://user-images.githubusercontent.com/101950175/174869563-aabcbfb5-5b09-4afd-90b7-b010a3f7c891.png)
+
+### Summary
+
+
+When investing into this program for Des Moines, investors should focus on males commuting to and from work along with a subscription package.  Focus on the center of the city to promote the new bike sharing program as majority of trips stay within the city.  
+
