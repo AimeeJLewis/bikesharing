@@ -5,12 +5,12 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
 Our initial data file needed the Trip Duration changed to a Datetime Format so we did that by usig Python and Pandas function to convert the data from an integer to a dateime datatype.
 ![TripDuration Data Type](https://user-images.githubusercontent.com/101950175/174866923-f6f42f1f-7527-4959-8560-fc6ec886ae90.png)
 
-### Results
-[Checkout Times for Users](https://public.tableau.com/views/Challenge14-CheckoutTimesforUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Results Using Tableau
+[Checkout Times for Users](https://public.tableau.com/views/Challenge14-CheckoutTimesforUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link) Around 3,000 bikes are checked out around 5AM.
 ![Checkout Times for Users](https://user-images.githubusercontent.com/101950175/174858240-f3fe6cee-7fd9-4ca6-831c-8d1c6af7c4b9.png)
 
 
-[Checkout Times by Gender](https://public.tableau.com/views/Challenge14-CheckoutTimesbyGender/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Checkout Times by Gender](https://public.tableau.com/views/Challenge14-CheckoutTimesbyGender/CheckoutTimesbyGender?:language=en-US&:display_count=n&:origin=viz_share_link) Males have the highest check-out rate around 5AM - suggesting that male users uses these bikes as transportation to work.
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/101950175/174858282-f6e8b512-41b5-4539-98d3-b351ecc26bb4.png)
 
 [Trips by Weekday](https://public.tableau.com/views/Challenge14-TripsbyWeekday/TripsbyWeekday?:language=en-US&:display_count=n&:origin=viz_share_link)
