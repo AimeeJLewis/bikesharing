@@ -27,13 +27,13 @@ Our initial data file needed the Trip Duration changed to a Datetime Format so w
 7. [Customer Type](https://public.tableau.com/views/Challenge14-CustomerType/CustomerType?:language=en-US&:display_count=n&:origin=viz_share_link) Subscribers make up about 80% of the users.
 ![Customer Type](https://user-images.githubusercontent.com/101950175/174869563-aabcbfb5-5b09-4afd-90b7-b010a3f7c891.png)
 
-### Summary
+### Additional Tableau Analysis
 8. [Starting Locations](https://public.tableau.com/views/Challenge14-StartingLocations/StartingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) Majority of the starting locations were in the main part of the city.
 ![Starting Locations](https://user-images.githubusercontent.com/101950175/174874151-b05afd9f-e116-4286-a08c-033b1a299825.png)
 
 9. [Ending Locations](https://public.tableau.com/shared/B83YYRY6S?:display_count=n&:origin=viz_share_link) Majority of the ending locations were also in the main part of the city.
 ![Ending Locations](https://user-images.githubusercontent.com/101950175/174874370-6697c885-e2b7-499c-87e7-e8a4412a7d16.png)
 
-
+### Summary
 When investing into this program for Des Moines, investors should focus on males commuting to and from work along with a subscription package.  Focus on the center of the city to promote the new bike sharing program as majority of trips stay within the city as the majority of starting locations and ending locations are within the city center. 
 
