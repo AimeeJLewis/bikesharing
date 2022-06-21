@@ -1,4 +1,11 @@
-# bikesharing!
+# CitiBike BikeSharing
+## Overview
+The purpose of this analysis was to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  We did that by taking August 2019 bike sharing data in NYC and used Pandas and Tableau to create a story using visualizations to pitch to our investors.
+
+Our initial data file needed the Trip Duration changed to a Datetime Format so we did that by usig Python and Pandas function to convert the data from an integer to a dateime datatype.
+![TripDuration Data Type](https://user-images.githubusercontent.com/101950175/174866923-f6f42f1f-7527-4959-8560-fc6ec886ae90.png)
+
+### Results
 [Checkout Times for Users](https://public.tableau.com/views/Challenge14-CheckoutTimesforUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Checkout Times for Users](https://user-images.githubusercontent.com/101950175/174858240-f3fe6cee-7fd9-4ca6-831c-8d1c6af7c4b9.png)
 
