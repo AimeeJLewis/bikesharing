@@ -1,5 +1,5 @@
 # bikesharing!
-
+[Checkout Times for Users](https://public.tableau.com/views/Challenge14-CheckoutTimesforUsers/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Checkout Times for Users](https://user-images.githubusercontent.com/101950175/174858240-f3fe6cee-7fd9-4ca6-831c-8d1c6af7c4b9.png)
 
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/101950175/174858282-f6e8b512-41b5-4539-98d3-b351ecc26bb4.png)
