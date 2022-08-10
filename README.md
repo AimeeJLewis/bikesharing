@@ -2,7 +2,7 @@
 ## Overview
 The purpose of this analysis was to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  We did that by taking August 2019 bike sharing data in NYC and used Pandas and Tableau to create a story using visualizations to pitch to our investors.
 
-Our initial data file needed the Trip Duration changed to a Datetime Format so we did that by usig Python and Pandas function to convert the data from an integer to a dateime datatype.
+Our initial data file needed the Trip Duration changed to a Datetime Format so we did that by using Python and Pandas function to convert the data from an integer to a dateime datatype.
 ![TripDuration Data Type](https://user-images.githubusercontent.com/101950175/174866923-f6f42f1f-7527-4959-8560-fc6ec886ae90.png)
 
 ### Results Using Tableau
